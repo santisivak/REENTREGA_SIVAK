@@ -1,0 +1,92 @@
+[
+    {
+        "id": "anillo-01",
+        "titulo": "Anillo de acero",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 20,
+        "imagen": "./img/anillo.jpg"
+    },
+    {
+        "id": "anillo-02",
+        "titulo": "Anillo de plata",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 40,
+        "imagen": "./img/anillo.jpg"
+    },
+    {
+        "id": "anillo-03",
+        "titulo": "Anillo de oro",
+        "categoria": {
+            "nombre": "Anillos",
+            "id": "anillos"
+        },
+        "precio": 100,
+        "imagen": "./img/anillo.jpg"
+    },
+    {
+        "id": "pulsera-01",
+        "titulo": "Pulsera de acero",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 40,
+        "imagen": "./img/pulsera.jpg"
+    },
+    {
+        "id": "pulsera-02",
+        "titulo": "Pulsera de plata",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 80,
+        "imagen": "./img/pulsera.jpg"
+    },
+    {
+        "id": "pulsera-03",
+        "titulo": "Pulsera de oro",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 200,
+        "imagen": "./img/pulsera.jpg"
+    },
+    {
+        "id": "collar-01",
+        "titulo": "Collar de acero",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 100,
+        "imagen": "./img/collar.jpg"
+    },
+    {
+        "id": "collar-02",
+        "titulo": "Collar de plata",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 200,
+        "imagen": "./img/collar.jpg"
+    },
+    {
+        "id": "collar-03",
+        "titulo": "Collar de oro",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 500,
+        "imagen": "./img/collar.jpg"
+    }
+]
